@@ -1,2 +1,2 @@
 # Interactive-Quiz
-Developed by using python
+Project link - https://amanpaul850.github.io/Interactive-Quiz/
